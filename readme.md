@@ -1,0 +1,1 @@
+This is a simple Python project to show how to use Pymongo to interact with MongoDB.
